@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Blockchain developement , Data Structure**
 
-- 👯 I’m looking to collaborate on **YouTube**
-
 - 🤝 I’m looking for help with **Blockchain**
 
 - 💬 Ask me about **React ,Data Structure**
 
-- 📫 How to reach me **Gmail: prashant.kumar2_cs19@gla.ac.in , Instagram: __prashant__kr__7__**
+- 📫 How to reach me **Gmail: prashant.kumar2_cs19@gla.ac.in , Instagram: __prashant__kr__7__
 
 - ⚡ Fun fact **I hate errors 😶**
 
