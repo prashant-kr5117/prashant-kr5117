@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React ,Data Structure**
 
-- 📫 How to reach me **Gmail: prashant.kumar2_cs19@gla.ac.in , Instagram: __prashant__kr__7__
+- 📫 How to reach me **Gmail: prashant.kumar2_cs19@gla.ac.in , Instagram: https://www.instagram.com/__prashant__kr__7__/
 
 - ⚡ Fun fact **I hate errors 😶**
 
