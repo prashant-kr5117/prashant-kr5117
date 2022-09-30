@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant-kr5117" alt="prashant-kr5117" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Js**
 
 - 🌱 I’m currently learning **Blockchain developement , Data Structure**
 
