@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **Blockchain developement , Data Structure**
-
-- 🤝 I’m looking for help with **Blockchain**
+- 🌱 I’m currently learning **Next.js  , Data Structure**
 
 - 💬 Ask me about **React ,Data Structure**
 
